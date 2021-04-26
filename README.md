@@ -1,9 +1,9 @@
-### This is Atsuya's github.👋
+## This is Atsuya's github.👋
 
-## Introduction
+# Introduction
 I'm a junior developer.😄
 
-## Status
+# Status
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=atsuya123&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/atsuya123/)
 
